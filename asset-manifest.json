@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samwip/static/css/main.3351578e.css",
+    "main.js": "/samwip/static/js/main.88af39bc.js",
+    "index.html": "/samwip/index.html",
+    "main.3351578e.css.map": "/samwip/static/css/main.3351578e.css.map",
+    "main.88af39bc.js.map": "/samwip/static/js/main.88af39bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3351578e.css",
+    "static/js/main.88af39bc.js"
+  ]
+}
