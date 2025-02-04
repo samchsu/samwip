@@ -31,8 +31,8 @@ const Portfolio = () => {
       <nav className={`fixed top-0 w-full ${navBgColor} backdrop-blur-sm z-50 transition-colors duration-300`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16 items-center">
-            <h1 className={`text-xl font-light tracking-wider ${textColor}`}>
-              SAMS WIP
+            <h1 className={`text-xl noto-sans-tc-font tracking-wider ${textColor}`}>
+              主恩WIP
             </h1>
             
             <div className="hidden md:flex md:items-center md:space-x-8">
